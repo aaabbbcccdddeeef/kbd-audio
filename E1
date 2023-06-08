@@ -1,0 +1,1 @@
+./keytap-gui input0.kbd [input1.kbd] [input2.kbd] ... [-cN] [-CN]
